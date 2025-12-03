@@ -64,7 +64,7 @@ public class Main {
         var worker1=8;
         System.out.println(worker1);
         var totalWorker=totalHours/worker1;
-        System.out.println("Всего работников в компании"+totalWorker);
+        System.out.println("Всего работников в компании"+ totalWorker);
         totalWorker=totalWorker+94;
         System.out.println(totalWorker);
         totalHours=totalWorker*8;
