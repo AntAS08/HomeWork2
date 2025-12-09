@@ -31,5 +31,7 @@ public class  Main {
         System.out.println(m);
         byte y = 67;
         System.out.println(y);
+
+        System.out.println("Задача 3");
     }
 }
