@@ -33,5 +33,7 @@ public class  Main {
         System.out.println(y);
 
         System.out.println("Задача 3");
+     int u =600;
+     System.out.println(u);
     }
 }
